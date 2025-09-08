@@ -1,4 +1,5 @@
 **5 Bit Flash ADC:**
+
 This repository contains the design of a high-speed 5-Bit Flash Analog-to-Digital Converter (ADC), implemented in the GPDK 45nm technology node. The ADC is designed to accurately sample and convert a 33.3 MHz analog input signal into a 5-bit digital output at a high sampling rate.
 
 **Key Features & Architecture**
@@ -17,10 +18,13 @@ Priority Encoder: The thermometer-to-binary conversion is handled by a custom di
 **Technology**
 
 PDK: GPDK 45nm
+
 Tools: Cadence Virtuoso (for schematic and layout), Spectre (for simulation)
 
 **Performance Goals**
 
 The primary design goals are to maintain:
+
 High-Speed operation enabled by the flash architecture and optimized encoder logic.
+
 Stability for the target 33.3 MHz input, achieved by the front-end Sample-and-Hold circuit.
