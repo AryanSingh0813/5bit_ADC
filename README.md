@@ -55,4 +55,7 @@ Low power consumption and compact layout in 45nm technology
 **Simulation Results**
 Simulation results confirming the ADC's performance it coverts the analog input to digital as expected, but there are still issue to work upon the conversion is not accurate. 
 
+## 📄 Technical Report
+
+[View the full PDF report](report/5bitADC.pdf)
 
