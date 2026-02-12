@@ -57,5 +57,5 @@ Simulation results confirming the ADC's performance it coverts the analog input 
 
 ## 📄 Technical Report
 
-[View the full PDF report](report/https://github.com/AryanSingh0813/5bit_ADC/blob/main/5bitADC.pdf)
+[View the full PDF report](https://github.com/AryanSingh0813/5bit_ADC/blob/main/5bitADC.pdf)
 
